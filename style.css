@@ -1,0 +1,74 @@
+body{
+    .poppins-thin {
+        font-family: "Poppins", sans-serif;
+      }
+}
+h1{
+    font-size: 50px;
+}
+
+.name-highlight{
+    color: orange;
+}
+
+.huf-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+
+.huf-width img{
+    width: 100%;
+
+}
+
+section{
+    height: 500px;
+    margin-bottom: 150px;
+}
+
+
+.frist-button{
+    color: aliceblue;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(15, 159, 96),rgb(51, 201, 209));
+    border-radius: 5px;
+    font-weight: 550px;
+    padding: 10px 35px 10px 35px;
+}
+
+.second-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange,darkorange);
+    border-radius: 7px;
+    padding: 10px 20px 10px 20px;
+    font-weight: 20px;
+
+}
+
+.sigle-experience{
+    box-shadow: 10px 10px 40px;
+    border-radius: 9px;
+    height: 55%;
+
+}
+
+#paser-daag{
+   border-left: 7px solid;
+   border-image: linear-gradient(180deg,lightsalmon,tomato);
+   border-image-slice: 1;
+}
+
+#paser-daag-porer{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+ }
+
+ footer p{
+    text-align: center;
+    margin-top: 50%;
+ }
